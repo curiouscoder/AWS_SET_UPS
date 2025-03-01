@@ -1,4 +1,4 @@
-# AWS Setp Scrips
+# AWS Setp Scripts
 
 Scripts to set up AWS Customer Accounts
 
